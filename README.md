@@ -1,4 +1,4 @@
 # obis_workshop_summer_2026
 
-Text **bold** *italics*. 
+Conversion of CMERA data into Darwin Core Standards
 
